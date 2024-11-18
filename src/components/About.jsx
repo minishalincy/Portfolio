@@ -14,14 +14,19 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Sai Kumar, nice to meet you. Please take a look around.</p>
+              <p>Hi. I'm Darshan Ramesh, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>As an ambitious and detail-oriented Full Stack Developer, I'm eager to
+                 bring my skills and enthusiasm to innovative projects. With a strong foundation 
+                 in computer science and a passion for coding, I've developed proficiency in
+                  cutting-edge technologies including JavaScript, Python, HTML/CSS, React, 
+                  Node.js, and MongoDB. I'm excited to apply my knowledge and creativity to
+                   build scalable, efficient, and user-friendly applications. I'm a quick learner, 
+                   team player, and dedicated individual committed to delivering high-quality 
+                   solutions. I'm looking forward to collaborating with like-minded professionals,
+                    expanding my skill set, and contributing to exciting projects that make a
+                     meaningful impact.</p>  
             </div>
           </div>
       </div>

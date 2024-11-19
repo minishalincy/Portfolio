@@ -10,16 +10,16 @@ const Work = () => {
   
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
-      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+      <div className='max-w-[1000px] mx-auto p-6 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
-          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
+          <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#D4A886]'>
             Projects
           </p>
           <p className='py-6'>// Check out some of my recent projects</p>
         </div>
 
 {/* container for projects */}
-<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+<div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
           
           {/* Gird Item */}
           {project.map((item, index) => (
@@ -36,7 +36,7 @@ const Work = () => {
       </span>
       <div className="pt-8 text-center ">
         {/* eslint-disable-next-line */}
-        <a href='https://github.com/darshhhhhhhh/brainwave-UI-UX-in-react-/tree/master' target="_blank">
+        <a href='https://github.com/minishalincy/Brainwave-UI-UX-with-react.git' target="_blank">
           <button
             className="text-center rounded-lg px-4 py-3 m-2
                        bg-white text-gray-700 font-bold text-lg"
